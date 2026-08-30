@@ -9,7 +9,6 @@ A dashboard that lets an evaluation trader answer one question at a glance:
 npm install
 npm run dev
 ```
-
 Then open the local URL Vite prints (usually `http://localhost:5173`).
 
 To build for production / deployment:
